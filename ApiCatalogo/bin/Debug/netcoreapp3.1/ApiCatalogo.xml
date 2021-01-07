@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiCatalogo</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:ApiCatalogo.Controllers.CategoriasController.ObterCategoriasProdutos" -->
+        <member name="M:ApiCatalogo.Controllers.CategoriasController.GetCategoria(System.Int32)">
+             <summary>
+            obtem categoria por id
+             </summary>
+             <param name="id"></param>
+             <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:ApiCatalogo.Controllers.CategoriasController.PostCategoria(ApiCatalogo.Dtos.CategoriaDto)" -->
+    </members>
+</doc>
